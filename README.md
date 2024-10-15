@@ -1,6 +1,6 @@
 # Bike Demo Three.js
 
-This fictive project was created to showcase my current skills using Three.js and GSAP. It was inspired by the [tutorial](https://www.youtube.com/watch?v=rxTb9ys834w&t=9266s) created by Andrew Woan based on Bokoko33's [portfolio](https://bokoko33.me/).
+This fictive project was created to showcase my current skills using Three.js and GSAP. 
 
 **[> View the live demo](https://bike-demo-threejs.vercel.app/)**
 
@@ -21,6 +21,5 @@ This fictive project was created to showcase my current skills using Three.js an
 
 ## Authors
 
-- [Kiril Bernard Tucker](https://github.com/Kirilbt)
+- [Amil Sena Rodrigues](https://github.com/Kirilbt)
 
-Special thanks to Andrew Woan, Bruno Simon and everyone on the Three.Js Journey's discord who helped me.
