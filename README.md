@@ -21,5 +21,5 @@ This fictive project was created to showcase my current skills using Three.js an
 
 ## Authors
 
-- [Amil Sena Rodrigues](https://github.com/Kirilbt)
+- [Amil Sena Rodrigues](https://github.com/amil3955)
 
