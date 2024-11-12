@@ -1,4 +1,4 @@
-# Bike Demo Three.js
+# Bike Three.js + GSAP
 
 This fictive project was created to showcase my current skills using Three.js and GSAP. 
 
