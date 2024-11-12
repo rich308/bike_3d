@@ -19,7 +19,4 @@ This fictive project was created to showcase my current skills using Three.js an
 - ASScroll
 - Vite
 
-## Authors
-
-- [Amil Sena Rodrigues](https://github.com/amil3955)
 
